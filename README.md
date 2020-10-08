@@ -1,4 +1,4 @@
-# magicpotion
+# MagicPotion
 
 For the Magic Potion website I used the Python framework, Django, as the main stack for this web applicaiton. I also used HTML, CSS, and Javascript throughout this project. 
 
