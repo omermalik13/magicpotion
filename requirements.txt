@@ -144,7 +144,6 @@ pydocstyle==4.0.1
 pyflakes==2.1.1
 Pygments==2.5.2
 pylint==2.4.4
-pyobjc-framework-WebKit==6.2.2
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyrsistent==0.15.7
